@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Deepika 👋
 
-<!--
-**deepikas-dev/deepikas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer passionate about building clean and responsive web interfaces  
+🎓 BCA Student  
+🌱 Currently improving my HTML, CSS & JavaScript skills  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
+- UI/UX Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+- Salon Booking Website (Frontend Project)
+
+## 📫 Connect with me
+- GitHub: https://github.com/deepikas-dev
