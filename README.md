@@ -1,8 +1,7 @@
 # Hi, I'm Deepika 👋
 
 💻 Frontend Developer passionate about building clean and responsive web interfaces  
-🎓 BCA Student  
-🌱 Currently improving my HTML, CSS & JavaScript skills  
+🎓 BCA Student at SRM Arts and Science College 
 
 ## 🚀 Skills
 - HTML
@@ -12,7 +11,11 @@
 - UI/UX Design
 
 ## 🌟 Projects
-- Salon Booking Website (Frontend Project)
-
+- GlamUp Salon Booking Website 
+- Hackerz Event Registration Form Website
+- Mavn Fashion E-Commerce Website
+- Weather Information Website
+- TechCode student Activity tracker website
+  
 ## 📫 Connect with me
 - GitHub: https://github.com/deepikas-dev
