@@ -7,6 +7,7 @@
 - HTML
 - CSS
 - JavaScript
+- react.js
 - Responsive Web Design
 - UI/UX Design
 
